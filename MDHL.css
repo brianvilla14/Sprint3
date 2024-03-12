@@ -1,0 +1,62 @@
+    body {
+        background-color: rgb(233, 184, 184);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    h1 {
+        text-align: center;
+        color: black;
+        font-size: 35px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    nav {
+        display: inline-block;
+        padding: 0rem;
+        position: absolute;
+        right: 80px;
+    }
+    
+    nav a {
+        text-indent: 20px;
+        background-color: rgb(111, 39, 173);
+        color: whitesmoke;
+        text-decoration: none;
+        border: 5px solid whitesmoke;
+        border-radius: 10px;
+        border-style: groove;
+    }
+    
+    a[href="#"] {
+        background-color: #9cff32;
+    }
+    
+    main img {
+        width: 83rem;
+    }
+    
+    aside img {
+        height: 200px;
+        width: 200px;
+        position: absolute;
+        vertical-align: top;
+    }
+    
+    h4 {
+        margin-top: -4px;
+        text-align: center;
+        color: rgba(0, 0, 0, 0.726);
+        font-style: italic;
+        border: solid black;
+        border-radius: 2px;
+    }
+    
+    section {
+        font-size: 15px;
+        margin-left: 200px;
+    }
+    
+    h6 {
+        color: black;
+        font-size: 20px;
+    }

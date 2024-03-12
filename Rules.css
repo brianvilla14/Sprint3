@@ -1,0 +1,86 @@
+body {
+    background-color: rgb(233, 184, 184);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: black;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    color: black;
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+nav {
+    display: inline-block;
+    padding: 0rem;
+    position: absolute;
+    right: 80px;
+}
+
+nav a {
+    text-indent: 20px;
+    background-color: rgb(111, 39, 173);
+    color: whitesmoke;
+    text-decoration: none;
+    border: 5px solid whitesmoke;
+    border-radius: 10px;
+    border-style: groove;
+}
+
+a[href="#"] {
+    background-color: #9cff32;
+}
+
+main img {
+    width: 100%;
+    height: auto;
+}
+
+h4 {
+    font-size: 20px;
+    text-align: left;
+}
+
+aside img {
+    height: auto;
+    width: 180px;
+    position: absolute;
+}
+
+section {
+    color: rgb(0, 0, 0);
+    margin-left: 200px;
+    font-size: 15px;
+}
+
+h6 {
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    text-indent: 50px;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+li ol {
+    list-style-type: lower-alpha;
+}
