@@ -14,7 +14,7 @@
         display: inline-block;
         padding: 0rem;
         position: absolute;
-        right: 80px;
+        right: 30px;
     }
     
     nav a {
@@ -23,7 +23,7 @@
         color: whitesmoke;
         text-decoration: none;
         border: 5px solid whitesmoke;
-        border-radius: 10px;
+        border-radius: 5px;
         border-style: groove;
     }
     
@@ -32,8 +32,11 @@
     }
     
     main img {
-        width: 83rem;
+        width: 100%;
+        height: 350px;
     }
+        
+    
     
     aside img {
         height: 200px;
